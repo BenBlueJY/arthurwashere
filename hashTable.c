@@ -15,3 +15,4 @@ void insert(char* s) {
     }
     hashTable[index] = s;
 }
+//wagwan g i can push stuff
