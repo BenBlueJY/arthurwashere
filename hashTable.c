@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define HASH_TABLE_SIZE 1000
+#define HASH_TABLE_SIZE 9000
 
 char hashTable[HASH_TABLE_SIZE];
 
